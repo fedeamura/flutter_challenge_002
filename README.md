@@ -1,6 +1,6 @@
 # Flutter Challenge 002
 
-Inspiration:
+### Inspiration:
 https://dribbble.com/shots/11019442-Milk-Online-Store-App
 
 ### Goal:
